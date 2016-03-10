@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+.descripcion_area
+{
+	background-image: url(/imagenes/fondo_descripcion.jpg);
+	text-align:center;
+	padding: 40px;
+}
+
+#titulo_uno{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+
+#botones
+{
+	align-content:center;
+	text-align:center;
+}
+
+#botonSaludar{
+	background-color:#C18889;
+	border-radius: 20px;
+	align-content:center;
+	text-align:center;
+	width:90px;
+	height:40px;
+	
+}
+
+#formulario
+{
+	text-align:center;
+	background-color:#9EB555;
+	border-radius:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:10px;
+}
+
+#formulario_fondo
+{
+	background-color:#6D9CB7;
+	padding: 40px;
+	border-radius: 20px;
+}
+
+#formulario_elementos
+{
+	border-radius: 5px;
+}
